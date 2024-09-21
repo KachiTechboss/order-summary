@@ -3,7 +3,7 @@
         background-color: hsl(225, 100%, 94%);
         font-family: "Red Hat Display", sans-serif;
         
-        margin: 5rem 1rem;
+        margin: 7rem 3rem;
         display: flex;
         flex-direction: column;
         margin-inline: 0;
@@ -22,7 +22,7 @@
         background-image: url("images/pattern-background-mobile.svg");
         background-size: contain;
         background-repeat: no-repeat;
-        top: -200px;
+        top: -180px;
         background-position: center;
         left: -370px;
         z-index: -1;
